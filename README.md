@@ -1,4 +1,4 @@
-# Unity Open Project #1: Chop Chop
+# Unity Open Project #1: Chop Chop o
 
 ![Unity Open Projects](/Docs/ReadmeImages/ApproachingTheIsland_Header.jpg)
 
